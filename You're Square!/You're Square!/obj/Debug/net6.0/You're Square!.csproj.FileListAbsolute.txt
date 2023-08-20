@@ -1,0 +1,15 @@
+C:\Users\bensc\Desktop\Code Kata\You're Square!\You're Square!\bin\Debug\net6.0\You're Square!.exe
+C:\Users\bensc\Desktop\Code Kata\You're Square!\You're Square!\bin\Debug\net6.0\You're Square!.deps.json
+C:\Users\bensc\Desktop\Code Kata\You're Square!\You're Square!\bin\Debug\net6.0\You're Square!.runtimeconfig.json
+C:\Users\bensc\Desktop\Code Kata\You're Square!\You're Square!\bin\Debug\net6.0\You're Square!.dll
+C:\Users\bensc\Desktop\Code Kata\You're Square!\You're Square!\bin\Debug\net6.0\You're Square!.pdb
+C:\Users\bensc\Desktop\Code Kata\You're Square!\You're Square!\obj\Debug\net6.0\You're Square!.csproj.AssemblyReference.cache
+C:\Users\bensc\Desktop\Code Kata\You're Square!\You're Square!\obj\Debug\net6.0\You're Square!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bensc\Desktop\Code Kata\You're Square!\You're Square!\obj\Debug\net6.0\You're Square!.AssemblyInfoInputs.cache
+C:\Users\bensc\Desktop\Code Kata\You're Square!\You're Square!\obj\Debug\net6.0\You're Square!.AssemblyInfo.cs
+C:\Users\bensc\Desktop\Code Kata\You're Square!\You're Square!\obj\Debug\net6.0\You're Square!.csproj.CoreCompileInputs.cache
+C:\Users\bensc\Desktop\Code Kata\You're Square!\You're Square!\obj\Debug\net6.0\You're Square!.dll
+C:\Users\bensc\Desktop\Code Kata\You're Square!\You're Square!\obj\Debug\net6.0\refint\You're Square!.dll
+C:\Users\bensc\Desktop\Code Kata\You're Square!\You're Square!\obj\Debug\net6.0\You're Square!.pdb
+C:\Users\bensc\Desktop\Code Kata\You're Square!\You're Square!\obj\Debug\net6.0\You're Square!.genruntimeconfig.cache
+C:\Users\bensc\Desktop\Code Kata\You're Square!\You're Square!\obj\Debug\net6.0\ref\You're Square!.dll

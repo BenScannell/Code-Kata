@@ -1,0 +1,4 @@
+﻿  Does my number look big in this.cpp
+C:\Users\bensc\Desktop\Code Kata\Does my number look big in this\Does my number look big in this\Does my number look big in this.cpp(15,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bensc\Desktop\Code Kata\Does my number look big in this\Does my number look big in this\Does my number look big in this.cpp(24,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Does my number look big in this.vcxproj -> C:\Users\bensc\Desktop\Code Kata\Does my number look big in this\x64\Debug\Does my number look big in this.exe
