@@ -1,0 +1,15 @@
+C:\Users\bensc\Desktop\Code Kata\Vowel Count\Vowel Count\obj\Debug\net6.0\Vowel Count.csproj.AssemblyReference.cache
+C:\Users\bensc\Desktop\Code Kata\Vowel Count\Vowel Count\obj\Debug\net6.0\Vowel Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bensc\Desktop\Code Kata\Vowel Count\Vowel Count\obj\Debug\net6.0\Vowel Count.AssemblyInfoInputs.cache
+C:\Users\bensc\Desktop\Code Kata\Vowel Count\Vowel Count\obj\Debug\net6.0\Vowel Count.AssemblyInfo.cs
+C:\Users\bensc\Desktop\Code Kata\Vowel Count\Vowel Count\obj\Debug\net6.0\Vowel Count.csproj.CoreCompileInputs.cache
+C:\Users\bensc\Desktop\Code Kata\Vowel Count\Vowel Count\bin\Debug\net6.0\Vowel Count.exe
+C:\Users\bensc\Desktop\Code Kata\Vowel Count\Vowel Count\bin\Debug\net6.0\Vowel Count.deps.json
+C:\Users\bensc\Desktop\Code Kata\Vowel Count\Vowel Count\bin\Debug\net6.0\Vowel Count.runtimeconfig.json
+C:\Users\bensc\Desktop\Code Kata\Vowel Count\Vowel Count\bin\Debug\net6.0\Vowel Count.dll
+C:\Users\bensc\Desktop\Code Kata\Vowel Count\Vowel Count\bin\Debug\net6.0\Vowel Count.pdb
+C:\Users\bensc\Desktop\Code Kata\Vowel Count\Vowel Count\obj\Debug\net6.0\Vowel Count.dll
+C:\Users\bensc\Desktop\Code Kata\Vowel Count\Vowel Count\obj\Debug\net6.0\refint\Vowel Count.dll
+C:\Users\bensc\Desktop\Code Kata\Vowel Count\Vowel Count\obj\Debug\net6.0\Vowel Count.pdb
+C:\Users\bensc\Desktop\Code Kata\Vowel Count\Vowel Count\obj\Debug\net6.0\Vowel Count.genruntimeconfig.cache
+C:\Users\bensc\Desktop\Code Kata\Vowel Count\Vowel Count\obj\Debug\net6.0\ref\Vowel Count.dll
