@@ -1,8 +1,0 @@
-﻿  Find the unique numbera.cpp
-C:\Users\bensc\Desktop\Code Kata\Find the unique numbera\Find the unique numbera\Find the unique numbera.cpp(11,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\bensc\Desktop\Code Kata\Find the unique numbera\Find the unique numbera\Find the unique numbera.cpp(32,124): warning C4305: 'initializing': truncation from 'double' to '_Ty'
-          with
-          [
-              _Ty=float
-          ]
-  Find the unique numbera.vcxproj -> C:\Users\bensc\Desktop\Code Kata\Find the unique numbera\x64\Debug\Find the unique numbera.exe
