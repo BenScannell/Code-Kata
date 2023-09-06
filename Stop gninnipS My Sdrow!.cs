@@ -1,10 +1,11 @@
-﻿using System.Collections.Generic;
+﻿//Kata: Stop gninnipS My sdroW!
+//Task: Create a function which takes a string and reverses any words which are 5 characters or longer.
+
+using System.Collections.Generic;
 using System.Linq;
 using System;
 public class program
 {
-    //Codewars Kata: Stop gninnipS My sdroW!
-    //Task: Create a function which takes a string and reverses any words which are 5 characters or longer.
     public static string SpinWords(string sentence)
     {
         string[] tokenized = sentence.Split(' ');

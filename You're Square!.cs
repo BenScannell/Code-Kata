@@ -1,6 +1,6 @@
-﻿using System;
-//Kata: You're Square!
+﻿//Kata: You're Square!
 //Task: Create a simple function to determine whether an integer input is a square number
+using System;
 public class Kata
 {
     public static bool IsSquare(int n)

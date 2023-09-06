@@ -1,5 +1,5 @@
-// Does my number look big in this.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//Kata: Does my number look big in this
+//Task: Write a function to find out whether a number is the sum of its own digits, each raised to the power of the number of digits.
 
 #include <iostream>
 #include <string>
